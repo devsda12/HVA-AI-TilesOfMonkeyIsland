@@ -1,0 +1,19 @@
+C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe.config
+C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.exe
+C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.pdb
+C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe
+C:\Users\Stefan\Google Drive\DA & AI 2014-2015\ASSIGNMENT 6\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.pdb
+C:\Users\Daniel\Desktop\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\TilesOfMonkeyIsland.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\TilesOfMonkeyIsland.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.exe
+C:\Users\Daniel\Desktop\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.pdb
+C:\Users\Daniel\Desktop\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe.config
+C:\Users\Daniel\Desktop\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe
+C:\Users\Daniel\Desktop\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.pdb
+D:\Documents\Visual Studio Projects\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe.config
+D:\Documents\Visual Studio Projects\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe
+D:\Documents\Visual Studio Projects\TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.pdb
+D:\Documents\Visual Studio Projects\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\TilesOfMonkeyIsland.csprojAssemblyReference.cache
+D:\Documents\Visual Studio Projects\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\TilesOfMonkeyIsland.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Projects\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.exe
+D:\Documents\Visual Studio Projects\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.pdb
