@@ -16,18 +16,7 @@ namespace TilesOfMonkeyIsland.Algorithm
         override protected float calculateHeuristic(Node node)
         {
             // Calculate the minimal distance walking horizontally / vertically and diagonally.
-            float distanceX = Math.Abs(node.x - this.goalNode.x);
-            float distanceY = Math.Abs(node.y - this.goalNode.y);
-            float distance;
-
-            if (distanceX >= distanceY)
-            {
-                distance = (distanceX - distanceY) + distanceY * 1.4f;
-            }
-            else
-            {
-                distance = (distanceY - distanceX) + distanceX * 1.4f;
-            }
+            float distance = (float)Math.Sqrt(Math.Pow(node.x - goalNode.x, 2) + Math.Pow(node.y - goalNode.y, 2));
 
             // Return the heuristic.
             return distance;

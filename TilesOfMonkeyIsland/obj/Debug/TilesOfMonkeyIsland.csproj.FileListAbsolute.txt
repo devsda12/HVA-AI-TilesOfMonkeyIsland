@@ -17,3 +17,10 @@ D:\Documents\Visual Studio Projects\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\
 D:\Documents\Visual Studio Projects\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\TilesOfMonkeyIsland.csproj.CoreCompileInputs.cache
 D:\Documents\Visual Studio Projects\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.exe
 D:\Documents\Visual Studio Projects\TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.pdb
+C:\Users\Gebruike\Documents\School\Jaar 2\Semester 1\Blok 6\Artificial Intelligence\HVA-AI-TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe.config
+C:\Users\Gebruike\Documents\School\Jaar 2\Semester 1\Blok 6\Artificial Intelligence\HVA-AI-TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.exe
+C:\Users\Gebruike\Documents\School\Jaar 2\Semester 1\Blok 6\Artificial Intelligence\HVA-AI-TilesOfMonkeyIsland\TilesOfMonkeyIsland\bin\Debug\Pathfinding.pdb
+C:\Users\Gebruike\Documents\School\Jaar 2\Semester 1\Blok 6\Artificial Intelligence\HVA-AI-TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\TilesOfMonkeyIsland.csprojAssemblyReference.cache
+C:\Users\Gebruike\Documents\School\Jaar 2\Semester 1\Blok 6\Artificial Intelligence\HVA-AI-TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\TilesOfMonkeyIsland.csproj.CoreCompileInputs.cache
+C:\Users\Gebruike\Documents\School\Jaar 2\Semester 1\Blok 6\Artificial Intelligence\HVA-AI-TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.exe
+C:\Users\Gebruike\Documents\School\Jaar 2\Semester 1\Blok 6\Artificial Intelligence\HVA-AI-TilesOfMonkeyIsland\TilesOfMonkeyIsland\obj\Debug\Pathfinding.pdb
